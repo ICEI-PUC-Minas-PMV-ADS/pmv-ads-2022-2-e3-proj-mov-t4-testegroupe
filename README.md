@@ -1,16 +1,16 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento front-end`
 
-`SEMESTRE`
+`EIXO 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Crianção de um cardápio virtual que pode ser acessado via qrcode. Facilita pedidos para os restaurantes.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* César Pereira dos Santos Filho
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
